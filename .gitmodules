@@ -4,3 +4,6 @@
 [submodule "src/third-party/polyseed"]
 	path = src/third-party/polyseed
 	url = https://github.com/tevador/polyseed.git
+[submodule "scala"]
+	path = scala
+	url = https://github.com/scala-network/scala
